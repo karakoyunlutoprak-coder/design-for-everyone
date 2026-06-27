@@ -1,4 +1,4 @@
-# 🌌 [Skill Adı] for Manus
+# 🌌 [Design] for Manus
 
 [![License](https://img.shields.io/badge/license-MIT-black.svg?style=flat-square)](#)
 [![Manus](https://img.shields.io/badge/Manus-Compatible-blueviolet.svg?style=flat-square)](#)
